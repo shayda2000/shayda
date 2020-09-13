@@ -9,16 +9,8 @@ from mechanize import Browser
  
 os.system("clear")
 print("""\033[1;35;40m /$$$$$$$$        /$$                          
-|__  $$__/       | $$                          
-   | $$  /$$$$$$ | $$   /$$ /$$   /$$  /$$$$$$ 
-   | $$ /$$__  $$| $$  /$$/| $$  | $$ /$$__  $$
-   | $$| $$  \ $$| $$$$$$/ | $$  | $$| $$  \ $$
-   | $$| $$  | $$| $$_  $$ | $$  | $$| $$  | $$
-   | $$|  $$$$$$/| $$ \  $$|  $$$$$$$|  $$$$$$/
-   |__/ \______/ |__/  \__/ \____  $$ \______/ 
-                            /$$  | $$          
-                           |  $$$$$$/          
-                            \______/     
+|Shayda
+         
                                                                                                                                                                                                
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
 \033[0;39m║\033[1;36m* \033[0;36mTelegram \033[1;36m: \033[1;36m@i4m_Tokyo\033[0;31m                     ║
@@ -37,7 +29,7 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U
  
  
 def keluar():
-    print ("\033[1;96m[!] \x1b[1;91mGaranawa")
+    print ("\033[1;96m[!] \x1b[1;91mXlas kaka)
     os.sys.exit()
  
  
@@ -108,8 +100,10 @@ print  ("""\x1b[0;31m  \033[1;96m            \x1b[1;93m[¤] \033[0;96mTelegram :
 \033[1;93m \x1b[1;96m       \x1b[1;93m[¤] \x1b[1;31m⚠ barprsyar nem la hech keshayak ⚠\x1b[0;31m""")
 print (" \x1b[1;93m⚔══════════════════════════☠\x1b[1;31m═══════════════════════════⚔")
  
-CorrectUsername = "Tok"
-CorrectPassword = "Yo"
+CorrectUsername = "shay"
+           
+      
+CorrectPassword = "da"
  
 loop = 'true'
 while (loop == 'true'):
@@ -177,7 +171,7 @@ def login():
             time.sleep(1)
             keluar()
         else:
-            print("\n\x1b[1;93mEmail Yan Password Yakeke Hallaya")
+            print("\n\x1b[1;93mJwan bnoosa gela yakt xalata a")
             os.system('rm -rf login.txt')
             time.sleep(1)
             login()
@@ -213,13 +207,16 @@ def menu():
     os.system("clear")
     print (logo)
     print ("   \033[1;36;40m      ╔═════════════════════════════════╗")
-    print ("   \033[1;36;40m      ║\033[1;32;40m[*] Nawe Xot\033[1;32;40m: "+nama+"       \033[1;36;40m║")                        
-    print ("   \033[1;36;40m      ║\033[1;34;40m[*] IDyakat  \033[1;34;40m: "+id+"   \033[1;36;40m║")
+    print ("   \033[1;36;40m      ║\033[1;32;40m[*] Fbakat\033[1;32;40m: "+nama+"       \033[1;36;40m║")                        
+    print ("   \033[1;36;40m      ║\033[1;34;40m[*] ID xom  \033[1;34;40m: "+id+"   \033[1;36;40m║")
     print ("   \033[1;36;40m      ║\033[1;34;40m[*] Followers\033[1;34;40m: "+sub+"                      \033[1;36;40m║")
     print ("   \033[1;36;40m      ╚═════════════════════════════════╝")
     print ("\033[1;32;40m[1] \033[1;33;40m══> Hack Krdn")
-    print ("\033[1;32;40m[2] \033[1;33;40m══> Update Krdne Toolaka")                                                                                                                  
-    print ("\033[1;32;40m[0] \033[1;33;40m══> Daxstne Accountakat")
+    print                                                                                                       
+    print ("\033[1;32;40m[0] \033[1;33;40m══> log out
+           
+           
+         ")
     pilih()
  
 def pilih():
@@ -260,7 +257,7 @@ def super():
     print ("\x1b[1;32;40m[2] \033[1;33;40m══> Hack Krdn Ba ID")
     print ("\x1b[1;32;40m[3] \033[1;33;40m══> Hack Krdn Ba Wordlist")
     print ("\x1b[1;32;40m[4] \033[1;33;40m══> Hack Krdn Ba File")
-    print ("\x1b[1;32;40m[0] \033[1;33;40m══> Garanawa")
+    print ("\x1b[1;32;40m[0] \033[1;33;40m══> shayda
     pilih_super()
  
 def pilih_super():
@@ -318,14 +315,14 @@ def pilih_super():
  
    
     print ("\033[1;36;40m[✺] Hamu IDyakan : \033[1;94m"+str(len(id)))
-    jalan('\033[1;34;40m[✺] Tkaya Chawarwan Ba ...')
+    jalan('\033[1;34;40m[✺] hajalay maka kaka bosta.')
     titik = ['.   ','..  ','... ']
     for o in titik:
         print("\r\033[1;32;40m[✺] Chuna Nawawa\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
     print ("\n\033[1;94m        ❈     \x1b[1;91mBo Ragrtne Hackaka CTRL+Z Dabgra \033[1;94m    ❈")
     print ("   \033[1;31;48m●🔥════════════════════════◄►════════════════════════🔥●")
  
-    jalan('          \033[1;91mHackaka Daste Pe Krd Tkaya Chawarwanba ...')
+    jalan('          \033[1;91mHackaka hat qechak bosta basha kaka ...')
     print  ("  \033[1;36;48m ●🔥════════════════════════◄►════════════════════════🔥●")
  
     def main(arg):
